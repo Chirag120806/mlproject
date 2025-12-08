@@ -6,3 +6,4 @@ ipykernel
 scikit-learn
 matplotlib
 catboost
+dill
