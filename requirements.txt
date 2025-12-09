@@ -8,3 +8,4 @@ matplotlib
 catboost
 dill
 xgboost
+Flask
